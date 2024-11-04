@@ -4,7 +4,7 @@ This project generates a QR code that links to my GitHub homepage.
 
 ## QR Code
 
-("\\wsl.localhost\Ubuntu\home\saitejanagapuri\qr_code_project\github_qr.png")
+![Github QR code](github_qr-1.png)
 
 ## QR Code Creation Log
 
